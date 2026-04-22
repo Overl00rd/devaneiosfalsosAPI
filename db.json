@@ -1,0 +1,28 @@
+{
+    "cursos":[
+        {
+            "id": 1,
+            "nome": "Mtec-PI Desenvolvimento de Sistemas",
+            "disciplinas": ["WEB III, PAM II, BD"],
+            "carga-horaria": "1200"
+        },
+        {
+            "id": 2,
+            "nome": "Curso Técnico de Desenvolvimento de Sistemas",
+            "disciplinas": ["DS, BD II, PWEB"],
+            "carga-horaria": "1200"
+        },
+        {
+            "id": 3,
+            "nome": "Mtec-PN de Informática",
+            "disciplinas": ["PC II, RCD I, SE"],
+            "carga-horaria": "1200"
+        },
+        {
+            "id": 4,
+            "nome": "Mtec-PN de Informática para Internet",
+            "disciplinas": ["Arte Digital, S Web II, D D Móveis"],
+            "carga-horaria": "1200"
+        }
+    ]
+}
